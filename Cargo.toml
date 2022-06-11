@@ -9,6 +9,7 @@ edition = "2021"
 strip = true
 
 [dependencies]
+tinyfiledialogs = "3.9.0"
 
 [dependencies.ash]
 version = "0.36.0"
